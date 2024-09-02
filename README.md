@@ -38,7 +38,7 @@ cd circle-crop-tool
 Run the application using Python:
 
 ```bash
-python crop.py
+python ImageCrop.py
 ```
 ## Usage
 
