@@ -31,7 +31,7 @@ pip install pillow
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/circle-crop-tool.git](https://github.com/javelinsoft/circle-cropping-tool)
+git clone https://github.com/javelinsoft/circle-cropping-tool
 cd circle-cropping-tool
 ```
 
