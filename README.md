@@ -32,7 +32,7 @@ pip install pillow
 
 ```bash
 git clone [https://github.com/yourusername/circle-crop-tool.git](https://github.com/javelinsoft/circle-cropping-tool)
-cd circle-crop-tool
+cd circle-cropping-tool
 ```
 
 ## Run the Script
