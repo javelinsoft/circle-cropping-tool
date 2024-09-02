@@ -2,7 +2,8 @@
 
 A simple graphical application for cropping images into circular shapes using Python. This tool allows users to load an image, draw a circle over it, and save the cropped image in the desired circular shape. The application is built using `tkinter` for the graphical user interface and `Pillow` (PIL) for image processing.
 
-![Screenshot]([ScreenShot.PNG](https://github.com/javelinsoft/circle-cropping-tool/blob/main/ScreenShot.PNG?raw=true)) 
+![ScreenShot](https://github.com/user-attachments/assets/f3fb6f4c-71ea-4996-923a-2c5eecaf08ee)
+
 
 ## Features
 
