@@ -43,10 +43,10 @@ python ImageCrop.py
 ```
 ## Usage
 
-- **Load Image: Click the "Load Image" button to select an image file from your computer.
-- **Draw Circle: Click and drag to draw a circle on the image. Adjust the circle's size by dragging the mouse.
-- **Move Circle: Click inside the circle and drag to move it.
-- **Save Image: Click the "Save Image" button to save the cropped image. The image will be saved in the circular area defined by the circle.
+- **Load Image:** Click the "Load Image" button to select an image file from your computer.
+- **Draw Circle:** Click and drag to draw a circle on the image. Adjust the circle's size by dragging the mouse.
+- **Move Circle:** Click inside the circle and drag to move it.
+- **Save Image:** Click the "Save Image" button to save the cropped image. The image will be saved in the circular area defined by the circle.
 
 ## Packaging
 
