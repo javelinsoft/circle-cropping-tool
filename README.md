@@ -25,7 +25,7 @@ To install `Pillow`, run:
 
 ```bash
 pip install pillow
-
+```
 ## Running the Application
 
 ### Clone the Repository
@@ -39,7 +39,7 @@ Run the application using Python:
 
 ```bash
 python crop.py
-
+```
 ## Usage
 
     Load Image: Click the "Load Image" button to select an image file from your computer.
@@ -61,7 +61,7 @@ Use the following command to create a single executable file. Replace icon.ico w
 
 ```bash
 pyinstaller --onefile --icon=icon.ico ImageCrop.py --windowed
-
+```
 This will create an executable in the dist directory.
 
 ### Contributing
